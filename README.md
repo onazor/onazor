@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon Christian Rozano</h1>
-<h3 align="center">An aspiring mathematician, programmer, and data scientist who wants to achieve innovation through numbers. I am writing and coding mathematics in life.</h3>
+<h3 align="center">An aspiring mathematician, programmer, and data scientist who wants to achieve innovation through numbers. I am writing and coding mathematics for life.</h3>
 <img align="center" alt="Coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmw2jvfudlbuzvdlh9ltaabgd61aiqcbliqa3zys&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Python for data science, R, and SQL**
