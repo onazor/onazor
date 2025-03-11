@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Christian!</h1>
 <h3 align="center">I do maths. I code. I read.</h3>
-<img align="center" alt="Coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmw2jvfudlbuzvdlh9ltaabgd61aiqcbliqa3zys&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Retrieval Augmented Generation**
 
